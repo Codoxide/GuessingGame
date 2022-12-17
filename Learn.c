@@ -6,9 +6,6 @@
 #include <stdbool.h>
 #include <math.h>
 
-
-
-
 int main()
 {
     system("clear");
