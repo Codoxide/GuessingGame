@@ -69,6 +69,7 @@ int main()
         {
             IsCorrect = true;
             printf("You Guessed the number which was %d and took you %d tries to get it\n", randomNOMBRRE, tries);
+            sleep(2.5);
             break;
         }
 
